@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Requirements Specification documents
+Requirements/
+/.idea/.idea.RecipeManager.dir/.idea
+.idea/
